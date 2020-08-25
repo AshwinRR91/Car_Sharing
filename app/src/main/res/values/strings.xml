@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car_Sharing</string>
+    <string name="back4app_app_id">6H2Raum0sTYJyNsZy9g02blWiYQpaDwLcLoTxmpp</string>
+    <string name="back4app_client_key">Qq7Ee1DmwXXhXlxVAOc65QL1vUFJRYz2mRZuHDm5</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="title_activity_passenger">Map</string>
+    <string name="title_activity_view_locations_map">Map</string>
+</resources>
